@@ -3,9 +3,11 @@ SharpCifs.Std
 
 # ** DEPRECATED! **
 
+This is a fork of [ume05rw's deprecated SharpCifs.Std library](https://github.com/ume05rw/SharpCifs.Std) with some bugfixes.
+
 This library has only SMB version 1 features, which are not supported by the current Windows.  
 
-See: [TalAloni's SMBLibrary implements SMB Client and Server](https://github.com/TalAloni/SMBLibrary), or my [Simple Client Wrapper EzSmb](https://github.com/ume05rw/EzSmb).
+See: [TalAloni's SMBLibrary implements SMB Client and Server](https://github.com/TalAloni/SMBLibrary), or [Simple Client Wrapper EzSmb](https://github.com/ume05rw/EzSmb).
 
 * * *
 
